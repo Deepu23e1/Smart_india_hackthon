@@ -6,6 +6,7 @@ import User from './Usercard';
 import Largescale from './Largescale';
 import Toptable from './Toptable';
 import { WidthFull } from '@mui/icons-material';
+import CompanyCard from './Companycard';
 
 export default function HomePage() {
     return (
